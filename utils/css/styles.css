@@ -1,0 +1,33 @@
+.card {
+    width: 18rem;
+    margin-bottom: -3rem;
+    margin-top: 5rem;
+}
+
+.cardCol {
+    display: flex;
+    gap: 6%;
+    flex-wrap: wrap;
+}
+
+.card-img-top {
+    width: 12rem;
+    height: 8rem;
+    margin-left: 3rem;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.btn {
+    margin-left: 3.5rem;
+}
+
+.selectShow {
+    display: block;
+}
+
+.selectHidden {
+    display: none;
+}
